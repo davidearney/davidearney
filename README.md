@@ -1,8 +1,5 @@
 # About me
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on FinOps FOCUS WG on-boarding process documents and a mentoring/buddy program.
 - 🌱 I’m currently learning GitHub, JSON, Python and SQL
 - 👯 I’m looking to collaborate on FinOps
